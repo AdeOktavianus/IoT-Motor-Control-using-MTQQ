@@ -7,6 +7,8 @@ We use MQTT for IoT Application, which is pretty light for data communication be
 
 If you want to use hivemq for the broker, you need to match the topic between host and client in order for exchange of data.
 
+Well, if you tried to use this program for any purposes. Please cite the paper. Thankssss!!!
+
 # Topic
 ```bash
 def on_connect(client, userdata, flags, rc):
